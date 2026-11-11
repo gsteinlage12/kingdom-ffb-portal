@@ -1,6 +1,6 @@
 # Kingdom Fantasy Football — Dynasty Cap & Contract Portal (Route B)
 
-Complete deployment bundle for **Kingdom Fantasy Football** (Sleeper League ID: `1374816718416797696`) using **Supabase (Free Tier)** + **Vercel (Hobby Plan)** + **Automated Weekly FantasyPros Half-PPR ROS Sync** at **$0/month**.
+Complete deployment bundle for **Kingdom Fantasy Football** (Sleeper League ID: `1374816718416797696`) using **Supabase** + **Vercel** + **Automated Weekly FantasyPros Half-PPR ROS Sync**.
 
 ## Included Files
 - `index.html`: Mobile-first Kingdom Fantasy Football web application with embedded logos, Montserrat typography, Red-to-Gold (`#EF3E36` to `#FCB040`) theme, `+Rookie Options` 2027 cap toggle, and Half-PPR ROS Composite Ranking Engine (`100% Optimal Starting 8 + 15% Top-4 Bench`).
